@@ -1,6 +1,6 @@
 
 - users to post a one-liner joke.
-- users to follow the jokes of other users or not (listen or)hbj
+- users to follow the jokes of other users or not (listen or)
 - users to comment on other users messages (heckle)
 
 ### URLs
