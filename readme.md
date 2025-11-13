@@ -1,7 +1,4 @@
 
-- users to post a one-liner joke.
-- users to follow the jokes of other users or not (listen or fd
-- users to comment on other users messages (heckle) rgrg
 
 ### URLsddd
 
