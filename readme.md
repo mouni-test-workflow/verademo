@@ -1,9 +1,6 @@
 
-- users to post a one-liner joke.
-- users to follow the jokes of other users or not (listen or)dsdas
-- users to comment on other users messages (heckle)
 
-### URLs
+### URLsddd
 
 `/reset` will reset the data in the database with a load of:
 
