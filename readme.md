@@ -2,7 +2,7 @@
 
 ### URLsddd
 
-`/reset` will reset the data in the database with a load of:
+`/reset` will reset the data in the database with a load of:cxc
 
 - users
 - jokes
