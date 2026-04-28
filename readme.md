@@ -6,7 +6,7 @@
 
 - users
 - jokes
-- heckles
+- hecklesh
   
 `/feed` shows the jokes/heckles that are relevant to the current user.
 
